@@ -1,4 +1,9 @@
+
 Q1: Why might we consider using Git?
 
 Answer: It allows for multiple people to work on the project at the same time and add their changes to the main project without affecting the 
 	project as a whole. Allows for small changes to be made and features to be added. 
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: It could be used in agriculture to analyze datasets to make crops grow better or more efficiently. 
