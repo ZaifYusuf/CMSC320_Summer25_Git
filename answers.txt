@@ -11,5 +11,9 @@ Answer: It could be used in agriculture to analyze datasets to make crops grow b
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: When you merge you are connecting two branches whereas with rebasing you are choosing one branch and 
-	going with it. 
+	going with it.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forawrd to learning about data science and its various applications to the real world.  
 
