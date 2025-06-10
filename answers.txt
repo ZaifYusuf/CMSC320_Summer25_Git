@@ -7,3 +7,9 @@ Answer: It allows for multiple people to work on the project at the same time an
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: It could be used in agriculture to analyze datasets to make crops grow better or more efficiently. 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: When you merge you are connecting two branches whereas with rebasing you are choosing one branch and 
+	going with it. 
+
